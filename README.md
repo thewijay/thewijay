@@ -5,6 +5,7 @@
 ---
 
 ### 🚀 About Me
+
 - 🛡️ Passionate about **Cybersecurity & Ethical Hacking**
 - 💻 Full-stack Developer | Linux Enthusiast | Open-Source Advocate
 - 🎓 **BSc. Honours in Computing & Information Systems** @ SUSL
@@ -32,25 +33,26 @@
 
 ### 📊 GitHub Stats
 
-![Pubudu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PubuduWijesundara&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PubuduWijesundara&layout=compact&theme=radical)
+![Pubudu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thewijay&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thewijay&layout=compact&theme=radical)
 
 ---
 
 ### 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pubudu-wijesundara/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PubuduWijesundara) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pubudu-wijesundara/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thewijay)
+
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=Firefox&logoColor=white)](https://mylink.com)   -->
 
 💬 Feel free to reach out if you want to collaborate on cool tech projects or just talk about cybersecurity & development!
 
 ---
 
-### 🦾 Fun Fact: 
+<!-- ### 🦾 Fun Fact:
 💡 My AI assistant is called **Neo** (inspired by sci-fi tech & AI assistants like J.A.R.V.I.S.)
 
----
+--- -->
 
 ⭐ **If you like my work, consider giving a star!** ⭐
