@@ -1,22 +1,22 @@
 ### Hi there, I'm Pubudu Wijesundara! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Tech+Educator;Open-Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=32&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Tech+Educator;Open-Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
-### 🚀 About Me
+## About Me
 
-- 🛡️ Passionate about **Cybersecurity & Ethical Hacking**
+- 🛡️ Passionate about **DevOps | Cybersecurity & Ethical Hacking**
 - 💻 Full-stack Developer | Linux Enthusiast | Open-Source Advocate
 - 🎓 **BSc. Honours in Computing & Information Systems** @ SUSL
 - 🎯 Aiming to create innovative solutions in **AI, Security, and Tech Education**
 - 🔭 Currently working on `TrackMyMeal` 🍽️ | `AI-Based Sexual & Wellness Healthcare Assistant` 🏥
-- 🌱 Always learning new technologies, focusing on **Pentesting, Cloud Security & AI**
+- 🌱 Always learning new technologies, focusing on **DevOps, Cloud Security & AI**
 - 🏆 Active participant in **CTFs, Hackathons & Open-Source Projects**
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat&logo=kali-linux&logoColor=white)
@@ -31,14 +31,30 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Pubudu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thewijay&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thewijay&layout=compact&theme=radical)
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=thewijay&show_icons=true&theme=radical" style="flex: 3; max-width: 60%; height: 200px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewijay&layout=compact&theme=radical" style="flex: 3; max-width: 60%; height: 200px;" />
+</p>
 
 ---
 
-### 🌍 Connect with Me
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thewijay&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thewijay&theme=darkhub&no-bg=true&margin-w=10" />
+</p>
+
+## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pubudu-wijesundara/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
