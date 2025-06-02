@@ -1,6 +1,6 @@
 ### Hi there, I'm Pubudu Wijesundara! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=32&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Tech+Educator;Open-Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Tech+Educator;Open-Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
@@ -34,8 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=thewijay&show_icons=true&theme=radical" style="flex: 3; max-width: 60%; height: 200px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewijay&layout=compact&theme=radical" style="flex: 3; max-width: 60%; height: 200px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=thewijay&show_icons=true&theme=radical" style="flex: 3; max-width: 50%; height: 200px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewijay&layout=compact&theme=radical" style="flex: 3; max-width: 50%; height: 200px;" />
 </p>
 
 ---
