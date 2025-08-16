@@ -1,6 +1,6 @@
 ### Hi there, I'm Pubudu Wijesundara! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Tech+Educator;Open-Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=28&lines=Full-Stack+Developer;Tech+Educator;DevOps+Aspirant;Open-Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
