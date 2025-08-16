@@ -66,11 +66,21 @@
 
 ## 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pubudu-wijesundara/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thewijay)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pubudu-wijesundara/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/thewijay">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=Firefox&logoColor=white)](https://mylink.com)   -->
+<!-- <a href="https://mylink.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio" />
+</a> -->
 
 💬 Feel free to reach out if you want to collaborate on cool tech projects or just talk about cybersecurity & development!
 
@@ -80,5 +90,6 @@
 💡 My AI assistant is called **Neo** (inspired by sci-fi tech & AI assistants like J.A.R.V.I.S.)
 
 --- -->
-
+<p align="center">
 ⭐ **If you like my work, consider giving a star!** ⭐
+</p>
